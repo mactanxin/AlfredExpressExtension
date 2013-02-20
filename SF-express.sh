@@ -1,0 +1,1 @@
+open http://kf.sf-express.com/css/myquery/queryWQSBill.action?waybills={query}
